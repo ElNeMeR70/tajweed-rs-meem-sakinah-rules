@@ -1,0 +1,10 @@
+[package]
+name = "tajweed-rs-meem-sakinah-rules"
+version = "1.0.0"
+edition = "2021"
+description = "Meem Sakinah Labial Assimilation & Izhar Rule Engine"
+authors = ["Mahmoud ElNemer <sultanelnemer@gmail.com>"]
+
+[[bin]]
+name = "tajweed_rs_meem_sakinah_rules"
+path = "main.rs"
